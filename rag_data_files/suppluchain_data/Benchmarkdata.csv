@@ -1,0 +1,16 @@
+question,answer,
+What are the countries managed_by pmo_us ?,"Côte d'Ivoire, Vietnam, Zimbabwe, Zambia,",
+What is vendor for brand reveal ?,"RANBAXY Fine Chemicals LTD , MEDMIRA EAST AFRICA LTD.",
+What are the shipment modes managed by pmo_us ?,"Air, Truck, Air Charter, Ocean.",
+What is the shipment mode for id 2157?,Truck,
+when is the purchase order sent vendor date to id 1 ?,Date Not Captured,
+when is the scheduled delivery date and delivery recorded date for id 44 ?,"08-01-2007, 08-01-2007",
+what is the item description for brand reveal?,"HIV, Reveal G3 Rapid HIV-1 Antibody Test, 30 Tests",
+"What is the item description and for brand reveal, pack price and unit price?","HIV, Reveal G3 Rapid HIV-1 Antibody Test, 30 Tests,29,0.97",
+When is the purchase order sent to vendor date for brand reveal ?,"Date Not Captured,
+Date Not Captured,
+1/18/2012.",
+"What is the scheduled delivery date , delivered to client date and delivery recorded date for brand 
+reveal ?","2-Jun-06 , 2-Jun-06 ,2-Jun-06
+8-Aug-06, 8-Aug-06,8-Aug-06.
+6-Feb-12,6-Feb-12,6-Feb-12",
